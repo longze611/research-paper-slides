@@ -1,0 +1,77 @@
+{
+  "source_folder": "科研论文",
+  "document_type": "Slide decks exported as PDF",
+  "total_pages": 52,
+  "analysis": "Full-page text plus visual review of all 52 pages; magnified representative pages. Measurements are observations, not mandatory new-slide font sizes.",
+  "purpose": "Style and scholarly storytelling study",
+  "decks": [
+    {
+      "id": "G",
+      "filename": "20984_X0KoVp7.pdf",
+      "title": "Where We Are and What We’re Looking At: Query Based Worldwide Image Geo-localization Using Hierarchies and Scenes",
+      "pages": 20,
+      "page_size_pdf_units": [
+        720,
+        405
+      ],
+      "aspect_ratio": "16:9",
+      "sha256": "3a9c4e5e495b1776f9eca15ad3a4653640ccf914ee3c1a329336adb1e60676be",
+      "rendered_size_px": [
+        1280,
+        720
+      ],
+      "render_method": "pypdfium2",
+      "variant": "minimal-technical",
+      "contact_sheets": [
+        "assets/references/G/montage-01.jpg",
+        "assets/references/G/montage-09.jpg",
+        "assets/references/G/montage-17.jpg"
+      ]
+    },
+    {
+      "id": "F",
+      "filename": "22768.pdf",
+      "title": "Catch Missing Details: Image Reconstruction with Frequency Augmented Variational Autoencoder",
+      "pages": 12,
+      "page_size_pdf_units": [
+        720,
+        405
+      ],
+      "aspect_ratio": "16:9",
+      "sha256": "915421f908fe79d86a8c901e162b53ed3b5c46a5d92c1dc9c4e399bea87b08d3",
+      "rendered_size_px": [
+        1280,
+        720
+      ],
+      "render_method": "pypdfium2",
+      "variant": "navy-explainer",
+      "contact_sheets": [
+        "assets/references/F/montage-01.jpg",
+        "assets/references/F/montage-09.jpg"
+      ]
+    },
+    {
+      "id": "P",
+      "filename": "31044_aApkDDq.pdf",
+      "title": "PAIR Diffusion: A Comprehensive Multimodal Object-Level Image Editor",
+      "pages": 20,
+      "page_size_pdf_units": [
+        720,
+        405
+      ],
+      "aspect_ratio": "16:9",
+      "sha256": "420bbbddfcaebccd17c7b68123ff37c005ca27c205042d4f4a48c91b691d7309",
+      "rendered_size_px": [
+        1280,
+        720
+      ],
+      "render_method": "pypdfium2",
+      "variant": "visual-evidence",
+      "contact_sheets": [
+        "assets/references/P/montage-01.jpg",
+        "assets/references/P/montage-09.jpg",
+        "assets/references/P/montage-17.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,912 @@
+{
+  "coordinate_note": "All image paths relative to skill root. Full source-page sequence is retained.",
+  "references": [
+    {
+      "id": "G01",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 1,
+      "variant": "minimal-technical",
+      "role": "封面",
+      "tags": [
+        "cover"
+      ],
+      "image": "assets/references/G/G01.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G02",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 2,
+      "variant": "minimal-technical",
+      "role": "贡献预告",
+      "tags": [
+        "preview",
+        "contribution"
+      ],
+      "image": "assets/references/G/G02.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G03",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 3,
+      "variant": "minimal-technical",
+      "role": "模型总览",
+      "tags": [
+        "overview",
+        "architecture"
+      ],
+      "image": "assets/references/G/G03.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G04",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 4,
+      "variant": "minimal-technical",
+      "role": "层级查询定义",
+      "tags": [
+        "module",
+        "notation"
+      ],
+      "image": "assets/references/G/G04.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G05",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 5,
+      "variant": "minimal-technical",
+      "role": "独立解码器",
+      "tags": [
+        "module",
+        "formula"
+      ],
+      "image": "assets/references/G/G05.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G06",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 6,
+      "variant": "minimal-technical",
+      "role": "依赖解码器",
+      "tags": [
+        "module",
+        "formula"
+      ],
+      "image": "assets/references/G/G06.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G07",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 7,
+      "variant": "minimal-technical",
+      "role": "场景选择",
+      "tags": [
+        "module",
+        "selection"
+      ],
+      "image": "assets/references/G/G07.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G08",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 8,
+      "variant": "minimal-technical",
+      "role": "层级分类",
+      "tags": [
+        "module",
+        "output"
+      ],
+      "image": "assets/references/G/G08.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G09",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 9,
+      "variant": "minimal-technical",
+      "role": "训练数据MP16",
+      "tags": [
+        "dataset",
+        "samples",
+        "distribution"
+      ],
+      "image": "assets/references/G/G09.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G10",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 10,
+      "variant": "minimal-technical",
+      "role": "筛选测试集Im2GPS/3k",
+      "tags": [
+        "dataset",
+        "bias",
+        "samples"
+      ],
+      "image": "assets/references/G/G10.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G11",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 11,
+      "variant": "minimal-technical",
+      "role": "未筛选测试集YFCC",
+      "tags": [
+        "dataset",
+        "bias",
+        "samples"
+      ],
+      "image": "assets/references/G/G11.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G12",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 12,
+      "variant": "minimal-technical",
+      "role": "GWS15k采样",
+      "tags": [
+        "dataset",
+        "sampling",
+        "contribution"
+      ],
+      "image": "assets/references/G/G12.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G13",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 13,
+      "variant": "minimal-technical",
+      "role": "Im2GPS定量结果",
+      "tags": [
+        "quantitative",
+        "table"
+      ],
+      "image": "assets/references/G/G13.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G14",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 14,
+      "variant": "minimal-technical",
+      "role": "Im2GPS3k定量结果",
+      "tags": [
+        "quantitative",
+        "table",
+        "mixed-ranking"
+      ],
+      "image": "assets/references/G/G14.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G15",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 15,
+      "variant": "minimal-technical",
+      "role": "YFCC4k定量结果",
+      "tags": [
+        "quantitative",
+        "table"
+      ],
+      "image": "assets/references/G/G15.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G16",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 16,
+      "variant": "minimal-technical",
+      "role": "YFCC26k定量结果",
+      "tags": [
+        "quantitative",
+        "table"
+      ],
+      "image": "assets/references/G/G16.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G17",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 17,
+      "variant": "minimal-technical",
+      "role": "GWS15k定量结果",
+      "tags": [
+        "quantitative",
+        "table"
+      ],
+      "image": "assets/references/G/G17.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G18",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 18,
+      "variant": "minimal-technical",
+      "role": "层级与场景注意力",
+      "tags": [
+        "qualitative",
+        "interpretation"
+      ],
+      "image": "assets/references/G/G18.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G19",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 19,
+      "variant": "minimal-technical",
+      "role": "结论与代码",
+      "tags": [
+        "conclusion",
+        "resources"
+      ],
+      "image": "assets/references/G/G19.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "G20",
+      "source": "20984_X0KoVp7.pdf",
+      "page": 20,
+      "variant": "minimal-technical",
+      "role": "参考文献",
+      "tags": [
+        "references"
+      ],
+      "image": "assets/references/G/G20.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F01",
+      "source": "22768.pdf",
+      "page": 1,
+      "variant": "navy-explainer",
+      "role": "封面",
+      "tags": [
+        "cover"
+      ],
+      "image": "assets/references/F/F01.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F02",
+      "source": "22768.pdf",
+      "page": 2,
+      "variant": "navy-explainer",
+      "role": "挑战贡献结果摘要",
+      "tags": [
+        "preview",
+        "contribution",
+        "summary"
+      ],
+      "image": "assets/references/F/F02.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F03",
+      "source": "22768.pdf",
+      "page": 3,
+      "variant": "navy-explainer",
+      "role": "高压缩细节丢失动机",
+      "tags": [
+        "motivation",
+        "failure",
+        "comparison"
+      ],
+      "image": "assets/references/F/F03.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F04",
+      "source": "22768.pdf",
+      "page": 4,
+      "variant": "navy-explainer",
+      "role": "FA-VAE总架构",
+      "tags": [
+        "overview",
+        "architecture"
+      ],
+      "image": "assets/references/F/F04.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F05",
+      "source": "22768.pdf",
+      "page": 5,
+      "variant": "navy-explainer",
+      "role": "FFL及高频噪声",
+      "tags": [
+        "mechanism",
+        "formula",
+        "failure",
+        "successive-refinement"
+      ],
+      "image": "assets/references/F/F05.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F06",
+      "source": "22768.pdf",
+      "page": 6,
+      "variant": "navy-explainer",
+      "role": "SL及固定方差伪影",
+      "tags": [
+        "mechanism",
+        "formula",
+        "failure",
+        "successive-refinement"
+      ],
+      "image": "assets/references/F/F06.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F07",
+      "source": "22768.pdf",
+      "page": 7,
+      "variant": "navy-explainer",
+      "role": "DSL与动态方差",
+      "tags": [
+        "mechanism",
+        "formula",
+        "successive-refinement"
+      ],
+      "image": "assets/references/F/F07.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F08",
+      "source": "22768.pdf",
+      "page": 8,
+      "variant": "navy-explainer",
+      "role": "CAT用于文本到图像",
+      "tags": [
+        "extension",
+        "architecture"
+      ],
+      "image": "assets/references/F/F08.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F09",
+      "source": "22768.pdf",
+      "page": 9,
+      "variant": "navy-explainer",
+      "role": "重建实验",
+      "tags": [
+        "quantitative",
+        "table",
+        "qualitative",
+        "comparison"
+      ],
+      "image": "assets/references/F/F09.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F10",
+      "source": "22768.pdf",
+      "page": 10,
+      "variant": "navy-explainer",
+      "role": "生成实验",
+      "tags": [
+        "quantitative",
+        "table",
+        "qualitative",
+        "comparison"
+      ],
+      "image": "assets/references/F/F10.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F11",
+      "source": "22768.pdf",
+      "page": 11,
+      "variant": "navy-explainer",
+      "role": "Thanks与论文代码",
+      "tags": [
+        "closing",
+        "resources"
+      ],
+      "image": "assets/references/F/F11.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "F12",
+      "source": "22768.pdf",
+      "page": 12,
+      "variant": "navy-explainer",
+      "role": "参考文献",
+      "tags": [
+        "references"
+      ],
+      "image": "assets/references/F/F12.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P01",
+      "source": "31044_aApkDDq.pdf",
+      "page": 1,
+      "variant": "visual-evidence",
+      "role": "封面",
+      "tags": [
+        "cover"
+      ],
+      "image": "assets/references/P/P01.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P02",
+      "source": "31044_aApkDDq.pdf",
+      "page": 2,
+      "variant": "visual-evidence",
+      "role": "三类编辑能力贡献",
+      "tags": [
+        "preview",
+        "contribution",
+        "visual-demo"
+      ],
+      "image": "assets/references/P/P02.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P03",
+      "source": "31044_aApkDDq.pdf",
+      "page": 3,
+      "variant": "visual-evidence",
+      "role": "对象组成与编辑目标",
+      "tags": [
+        "motivation",
+        "task"
+      ],
+      "image": "assets/references/P/P03.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P04",
+      "source": "31044_aApkDDq.pdf",
+      "page": 4,
+      "variant": "visual-evidence",
+      "role": "结构外观表示定义",
+      "tags": [
+        "notation",
+        "representation",
+        "formula"
+      ],
+      "image": "assets/references/P/P04.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P05",
+      "source": "31044_aApkDDq.pdf",
+      "page": 5,
+      "variant": "visual-evidence",
+      "role": "编辑操作与变量关系",
+      "tags": [
+        "operations",
+        "formula"
+      ],
+      "image": "assets/references/P/P05.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P06",
+      "source": "31044_aApkDDq.pdf",
+      "page": 6,
+      "variant": "visual-evidence",
+      "role": "训练与推理总图",
+      "tags": [
+        "overview",
+        "architecture",
+        "low-contrast-source"
+      ],
+      "image": "assets/references/P/P06.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P07",
+      "source": "31044_aApkDDq.pdf",
+      "page": 7,
+      "variant": "visual-evidence",
+      "role": "多模态CFG",
+      "tags": [
+        "mechanism",
+        "formula",
+        "control"
+      ],
+      "image": "assets/references/P/P07.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P08",
+      "source": "31044_aApkDDq.pdf",
+      "page": 8,
+      "variant": "visual-evidence",
+      "role": "无条件模型实验范围",
+      "tags": [
+        "protocol",
+        "qualitative",
+        "comparison"
+      ],
+      "image": "assets/references/P/P08.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P09",
+      "source": "31044_aApkDDq.pdf",
+      "page": 9,
+      "variant": "visual-evidence",
+      "role": "对象外观编辑",
+      "tags": [
+        "qualitative",
+        "visual-demo"
+      ],
+      "image": "assets/references/P/P09.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P10",
+      "source": "31044_aApkDDq.pdf",
+      "page": 10,
+      "variant": "visual-evidence",
+      "role": "更多外观样例",
+      "tags": [
+        "qualitative",
+        "visual-demo"
+      ],
+      "image": "assets/references/P/P10.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P11",
+      "source": "31044_aApkDDq.pdf",
+      "page": 11,
+      "variant": "visual-evidence",
+      "role": "结构编辑",
+      "tags": [
+        "qualitative",
+        "structure",
+        "comparison"
+      ],
+      "image": "assets/references/P/P11.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P12",
+      "source": "31044_aApkDDq.pdf",
+      "page": 12,
+      "variant": "visual-evidence",
+      "role": "Stable Diffusion实现与样例",
+      "tags": [
+        "protocol",
+        "extension",
+        "qualitative"
+      ],
+      "image": "assets/references/P/P12.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P13",
+      "source": "31044_aApkDDq.pdf",
+      "page": 13,
+      "variant": "visual-evidence",
+      "role": "外观编辑基线比较",
+      "tags": [
+        "baseline",
+        "qualitative",
+        "comparison"
+      ],
+      "image": "assets/references/P/P13.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P14",
+      "source": "31044_aApkDDq.pdf",
+      "page": 14,
+      "variant": "visual-evidence",
+      "role": "添加对象与形状编辑比较",
+      "tags": [
+        "baseline",
+        "qualitative",
+        "comparison"
+      ],
+      "image": "assets/references/P/P14.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P15",
+      "source": "31044_aApkDDq.pdf",
+      "page": 15,
+      "variant": "visual-evidence",
+      "role": "对象变化",
+      "tags": [
+        "qualitative",
+        "variation"
+      ],
+      "image": "assets/references/P/P15.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P16",
+      "source": "31044_aApkDDq.pdf",
+      "page": 16,
+      "variant": "visual-evidence",
+      "role": "多模态与标准CFG消融",
+      "tags": [
+        "ablation",
+        "sensitivity",
+        "qualitative",
+        "formula"
+      ],
+      "image": "assets/references/P/P16.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P17",
+      "source": "31044_aApkDDq.pdf",
+      "page": 17,
+      "variant": "visual-evidence",
+      "role": "Thanks与资源",
+      "tags": [
+        "closing",
+        "resources"
+      ],
+      "image": "assets/references/P/P17.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P18",
+      "source": "31044_aApkDDq.pdf",
+      "page": 18,
+      "variant": "visual-evidence",
+      "role": "相关工作",
+      "tags": [
+        "related-work",
+        "after-closing"
+      ],
+      "image": "assets/references/P/P18.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P19",
+      "source": "31044_aApkDDq.pdf",
+      "page": 19,
+      "variant": "visual-evidence",
+      "role": "结论与未来工作",
+      "tags": [
+        "conclusion",
+        "limitations",
+        "after-closing"
+      ],
+      "image": "assets/references/P/P19.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    },
+    {
+      "id": "P20",
+      "source": "31044_aApkDDq.pdf",
+      "page": 20,
+      "variant": "visual-evidence",
+      "role": "问答",
+      "tags": [
+        "qa",
+        "after-closing"
+      ],
+      "image": "assets/references/P/P20.png",
+      "size_px": [
+        1280,
+        720
+      ],
+      "use": "Style and organization reference; do not reuse its scientific evidence or identity in unrelated papers."
+    }
+  ]
+}

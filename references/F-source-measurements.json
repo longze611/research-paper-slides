@@ -1,0 +1,1559 @@
+[
+  {
+    "id": "F01",
+    "page": 1,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 15.0,
+        "chars": 145
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 33.0,
+        "chars": 92
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 10.0,
+        "chars": 8
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 1
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        153
+      ],
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        93
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 23113
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 18282
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 3534
+      },
+      {
+        "rgb": [
+          128,
+          147,
+          163
+        ],
+        "count": 1340
+      },
+      {
+        "rgb": [
+          43,
+          68,
+          84
+        ],
+        "count": 1207
+      },
+      {
+        "rgb": [
+          12,
+          34,
+          53
+        ],
+        "count": 1139
+      },
+      {
+        "rgb": [
+          147,
+          163,
+          174
+        ],
+        "count": 1090
+      },
+      {
+        "rgb": [
+          212,
+          217,
+          219
+        ],
+        "count": 1067
+      },
+      {
+        "rgb": [
+          82,
+          104,
+          127
+        ],
+        "count": 1014
+      },
+      {
+        "rgb": [
+          21,
+          43,
+          61
+        ],
+        "count": 955
+      }
+    ]
+  },
+  {
+    "id": "F02",
+    "page": 2,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 11.0,
+        "chars": 454
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 11.0,
+        "chars": 181
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 16.0,
+        "chars": 33
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 14.0,
+        "chars": 8
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 7
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 1
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        657
+      ],
+      [
+        "(0.0, 0.0, 0.0)",
+        20
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        7
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 24601
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 17487
+      },
+      {
+        "rgb": [
+          166,
+          173,
+          180
+        ],
+        "count": 1873
+      },
+      {
+        "rgb": [
+          204,
+          207,
+          206
+        ],
+        "count": 1442
+      },
+      {
+        "rgb": [
+          178,
+          80,
+          47
+        ],
+        "count": 1344
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 1274
+      },
+      {
+        "rgb": [
+          66,
+          63,
+          42
+        ],
+        "count": 1212
+      },
+      {
+        "rgb": [
+          89,
+          99,
+          84
+        ],
+        "count": 1067
+      },
+      {
+        "rgb": [
+          253,
+          253,
+          253
+        ],
+        "count": 999
+      },
+      {
+        "rgb": [
+          155,
+          145,
+          134
+        ],
+        "count": 915
+      }
+    ]
+  },
+  {
+    "id": "F03",
+    "page": 3,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 14.0,
+        "chars": 174
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 14.0,
+        "chars": 54
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 10
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 14.0,
+        "chars": 2
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 1
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 17.0,
+        "chars": 1
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        232
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        10
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 26433
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 7998
+      },
+      {
+        "rgb": [
+          244,
+          238,
+          239
+        ],
+        "count": 2482
+      },
+      {
+        "rgb": [
+          234,
+          241,
+          224
+        ],
+        "count": 2283
+      },
+      {
+        "rgb": [
+          48,
+          35,
+          31
+        ],
+        "count": 2028
+      },
+      {
+        "rgb": [
+          155,
+          159,
+          151
+        ],
+        "count": 1728
+      },
+      {
+        "rgb": [
+          179,
+          198,
+          169
+        ],
+        "count": 1658
+      },
+      {
+        "rgb": [
+          230,
+          223,
+          223
+        ],
+        "count": 1614
+      },
+      {
+        "rgb": [
+          221,
+          239,
+          197
+        ],
+        "count": 1416
+      },
+      {
+        "rgb": [
+          242,
+          244,
+          237
+        ],
+        "count": 1387
+      }
+    ]
+  },
+  {
+    "id": "F04",
+    "page": 4,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 14.0,
+        "chars": 115
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 14.0,
+        "chars": 11
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 6
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 1
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 14.0,
+        "chars": 1
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        128
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        6
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 23858
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 7619
+      },
+      {
+        "rgb": [
+          231,
+          243,
+          226
+        ],
+        "count": 4007
+      },
+      {
+        "rgb": [
+          224,
+          231,
+          245
+        ],
+        "count": 3733
+      },
+      {
+        "rgb": [
+          204,
+          212,
+          204
+        ],
+        "count": 2644
+      },
+      {
+        "rgb": [
+          183,
+          187,
+          178
+        ],
+        "count": 2537
+      },
+      {
+        "rgb": [
+          217,
+          228,
+          223
+        ],
+        "count": 2000
+      },
+      {
+        "rgb": [
+          244,
+          227,
+          207
+        ],
+        "count": 1891
+      },
+      {
+        "rgb": [
+          123,
+          128,
+          123
+        ],
+        "count": 1543
+      },
+      {
+        "rgb": [
+          254,
+          254,
+          254
+        ],
+        "count": 1495
+      }
+    ]
+  },
+  {
+    "id": "F05",
+    "page": 5,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 14.0,
+        "chars": 118
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 11.0,
+        "chars": 66
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 62
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 26
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 14.0,
+        "chars": 2
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 13.0,
+        "chars": 2
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.0, 0.0, 0.0)",
+        190
+      ],
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        60
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        26
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 31079
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 6272
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 2048
+      },
+      {
+        "rgb": [
+          189,
+          203,
+          189
+        ],
+        "count": 1802
+      },
+      {
+        "rgb": [
+          154,
+          157,
+          140
+        ],
+        "count": 1746
+      },
+      {
+        "rgb": [
+          223,
+          216,
+          220
+        ],
+        "count": 1701
+      },
+      {
+        "rgb": [
+          254,
+          253,
+          253
+        ],
+        "count": 1683
+      },
+      {
+        "rgb": [
+          236,
+          239,
+          231
+        ],
+        "count": 1649
+      },
+      {
+        "rgb": [
+          247,
+          235,
+          240
+        ],
+        "count": 1564
+      },
+      {
+        "rgb": [
+          218,
+          199,
+          209
+        ],
+        "count": 1353
+      }
+    ]
+  },
+  {
+    "id": "F06",
+    "page": 6,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 14.0,
+        "chars": 314
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 18
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 14.0,
+        "chars": 17
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 11.0,
+        "chars": 16
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 14.0,
+        "chars": 6
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 1
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        258
+      ],
+      [
+        "(0.0, 0.0, 0.0)",
+        96
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        18
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 26865
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 6760
+      },
+      {
+        "rgb": [
+          157,
+          164,
+          149
+        ],
+        "count": 2381
+      },
+      {
+        "rgb": [
+          201,
+          200,
+          202
+        ],
+        "count": 2341
+      },
+      {
+        "rgb": [
+          240,
+          235,
+          237
+        ],
+        "count": 2100
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 2078
+      },
+      {
+        "rgb": [
+          246,
+          245,
+          244
+        ],
+        "count": 1956
+      },
+      {
+        "rgb": [
+          205,
+          213,
+          210
+        ],
+        "count": 1872
+      },
+      {
+        "rgb": [
+          117,
+          110,
+          102
+        ],
+        "count": 1669
+      },
+      {
+        "rgb": [
+          253,
+          253,
+          253
+        ],
+        "count": 1356
+      }
+    ]
+  },
+  {
+    "id": "F07",
+    "page": 7,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 14.0,
+        "chars": 280
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 27
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 14.0,
+        "chars": 5
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 1
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        215
+      ],
+      [
+        "(0.0, 0.0, 0.0)",
+        71
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        27
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 24775
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 6078
+      },
+      {
+        "rgb": [
+          237,
+          243,
+          230
+        ],
+        "count": 2365
+      },
+      {
+        "rgb": [
+          208,
+          205,
+          206
+        ],
+        "count": 2148
+      },
+      {
+        "rgb": [
+          138,
+          170,
+          119
+        ],
+        "count": 2059
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 2017
+      },
+      {
+        "rgb": [
+          243,
+          235,
+          239
+        ],
+        "count": 1896
+      },
+      {
+        "rgb": [
+          245,
+          245,
+          243
+        ],
+        "count": 1830
+      },
+      {
+        "rgb": [
+          195,
+          178,
+          185
+        ],
+        "count": 1788
+      },
+      {
+        "rgb": [
+          254,
+          253,
+          253
+        ],
+        "count": 1780
+      }
+    ]
+  },
+  {
+    "id": "F08",
+    "page": 8,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 14.0,
+        "chars": 227
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 11
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 14.0,
+        "chars": 6
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 14.0,
+        "chars": 3
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 1
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        237
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        11
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 20166
+      },
+      {
+        "rgb": [
+          237,
+          237,
+          237
+        ],
+        "count": 8467
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 7277
+      },
+      {
+        "rgb": [
+          207,
+          213,
+          212
+        ],
+        "count": 3411
+      },
+      {
+        "rgb": [
+          147,
+          159,
+          175
+        ],
+        "count": 2807
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 2073
+      },
+      {
+        "rgb": [
+          119,
+          99,
+          124
+        ],
+        "count": 1693
+      },
+      {
+        "rgb": [
+          239,
+          239,
+          239
+        ],
+        "count": 1590
+      },
+      {
+        "rgb": [
+          232,
+          233,
+          232
+        ],
+        "count": 1526
+      },
+      {
+        "rgb": [
+          244,
+          214,
+          156
+        ],
+        "count": 1515
+      }
+    ]
+  },
+  {
+    "id": "F09",
+    "page": 9,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 14.0,
+        "chars": 153
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 28
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 14.0,
+        "chars": 3
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 1
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.0, 0.0, 0.0)",
+        156
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        28
+      ],
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        1
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 23988
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 7004
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 4994
+      },
+      {
+        "rgb": [
+          235,
+          239,
+          227
+        ],
+        "count": 2322
+      },
+      {
+        "rgb": [
+          211,
+          205,
+          207
+        ],
+        "count": 2275
+      },
+      {
+        "rgb": [
+          244,
+          238,
+          239
+        ],
+        "count": 1942
+      },
+      {
+        "rgb": [
+          90,
+          120,
+          28
+        ],
+        "count": 1608
+      },
+      {
+        "rgb": [
+          149,
+          152,
+          140
+        ],
+        "count": 1544
+      },
+      {
+        "rgb": [
+          224,
+          221,
+          221
+        ],
+        "count": 1533
+      },
+      {
+        "rgb": [
+          170,
+          175,
+          165
+        ],
+        "count": 1487
+      }
+    ]
+  },
+  {
+    "id": "F10",
+    "page": 10,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 14.0,
+        "chars": 121
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 24
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 14.0,
+        "chars": 3
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 2
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.0, 0.0, 0.0)",
+        124
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        24
+      ],
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        2
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 23233
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 7183
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 5433
+      },
+      {
+        "rgb": [
+          200,
+          140,
+          111
+        ],
+        "count": 1879
+      },
+      {
+        "rgb": [
+          210,
+          169,
+          139
+        ],
+        "count": 1872
+      },
+      {
+        "rgb": [
+          196,
+          197,
+          198
+        ],
+        "count": 1842
+      },
+      {
+        "rgb": [
+          139,
+          122,
+          111
+        ],
+        "count": 1784
+      },
+      {
+        "rgb": [
+          226,
+          228,
+          221
+        ],
+        "count": 1768
+      },
+      {
+        "rgb": [
+          232,
+          198,
+          169
+        ],
+        "count": 1699
+      },
+      {
+        "rgb": [
+          158,
+          155,
+          153
+        ],
+        "count": 1610
+      }
+    ]
+  },
+  {
+    "id": "F11",
+    "page": 11,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 17.0,
+        "chars": 76
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 80.0,
+        "chars": 6
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 13.0,
+        "chars": 2
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        76
+      ],
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        8
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 29760
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 21941
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 648
+      },
+      {
+        "rgb": [
+          136,
+          146,
+          155
+        ],
+        "count": 627
+      },
+      {
+        "rgb": [
+          243,
+          144,
+          123
+        ],
+        "count": 526
+      },
+      {
+        "rgb": [
+          64,
+          73,
+          85
+        ],
+        "count": 446
+      },
+      {
+        "rgb": [
+          86,
+          99,
+          110
+        ],
+        "count": 399
+      },
+      {
+        "rgb": [
+          20,
+          42,
+          61
+        ],
+        "count": 368
+      },
+      {
+        "rgb": [
+          35,
+          55,
+          72
+        ],
+        "count": 320
+      },
+      {
+        "rgb": [
+          17,
+          39,
+          58
+        ],
+        "count": 319
+      }
+    ]
+  },
+  {
+    "id": "F12",
+    "page": 12,
+    "image_size": [
+      1280,
+      720
+    ],
+    "text_fonts": [
+      {
+        "font": "MUFUZY+Roboto-Regular",
+        "size_pdf_units": 10.5,
+        "chars": 1013
+      },
+      {
+        "font": "MUFUZY+Roboto-Italic",
+        "size_pdf_units": 10.5,
+        "chars": 313
+      },
+      {
+        "font": "MUFUZY+Roboto-Regular",
+        "size_pdf_units": 10.0,
+        "chars": 261
+      },
+      {
+        "font": "MUFUZY+Roboto-Italic",
+        "size_pdf_units": 10.0,
+        "chars": 74
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Bold",
+        "size_pdf_units": 30.0,
+        "chars": 10
+      },
+      {
+        "font": "MUFUZY+EncodeSansSemiCondensed-Regular",
+        "size_pdf_units": 10.0,
+        "chars": 8
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 10.5,
+        "chars": 7
+      },
+      {
+        "font": "MUFUZY+ArialMT",
+        "size_pdf_units": 10.0,
+        "chars": 3
+      }
+    ],
+    "text_colors": [
+      [
+        "(0.18039216, 0.25490198, 0.30980393)",
+        1670
+      ],
+      [
+        "(0.09803922, 0.18039216, 0.2509804)",
+        11
+      ],
+      [
+        "(0.9882353, 0.9882353, 0.9882353)",
+        10
+      ]
+    ],
+    "raster_palette": [
+      {
+        "rgb": [
+          252,
+          252,
+          252
+        ],
+        "count": 25961
+      },
+      {
+        "rgb": [
+          25,
+          46,
+          64
+        ],
+        "count": 7448
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "count": 5813
+      },
+      {
+        "rgb": [
+          167,
+          175,
+          180
+        ],
+        "count": 2116
+      },
+      {
+        "rgb": [
+          254,
+          254,
+          254
+        ],
+        "count": 1980
+      },
+      {
+        "rgb": [
+          176,
+          183,
+          188
+        ],
+        "count": 1497
+      },
+      {
+        "rgb": [
+          193,
+          199,
+          203
+        ],
+        "count": 1472
+      },
+      {
+        "rgb": [
+          203,
+          207,
+          211
+        ],
+        "count": 1407
+      },
+      {
+        "rgb": [
+          238,
+          239,
+          241
+        ],
+        "count": 1401
+      },
+      {
+        "rgb": [
+          214,
+          218,
+          220
+        ],
+        "count": 1374
+      }
+    ]
+  }
+]
