@@ -1,4 +1,4 @@
 interface:
   display_name: "科研论文汇报 · 顶会风格"
-  short_description: "先确定页数并确认逐页文案，参考顶会风格直接制作可编辑PPT，逐页检查重叠和连线"
-  default_prompt: "请使用 $research-paper-slides，先确定页数并让我确认逐页文案，再参考内置顶会风格直接制作可编辑PPT，完成渲染、重叠和流程图连接检查及修复。"
+  short_description: "先确定页数和中英文案语言，再确认逐页文案，制作可编辑PPT并检查重叠和连线"
+  default_prompt: "请使用 $research-paper-slides，先确定页数和文案语言（中文或英文），并让我确认逐页文案，再参考内置顶会风格直接制作可编辑PPT，完成渲染、重叠和流程图连接检查及修复。"
