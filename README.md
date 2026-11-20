@@ -35,16 +35,18 @@
 已有同名技能时先比较，保留本地修改。
 ```
 
-安装后在新会话中用 `/skills` 或输入 `$research-paper-slides` 查找；未出现时重启 Codex。建议切换到另一项目再确认，以检查全局可用性。
+安装后在新会话中输入 `/skill`（部分版本为 `/skills`），在列表中查找 `research-paper-slides`；未出现时重启 Codex。建议切换到另一项目再确认，以检查全局可用性。
 
 用户级目录依据 [OpenAI 官方技能文档](https://developers.openai.com/codex/skills/)。
 
 ## 使用方式
 
-向 Codex 提供论文 PDF，并发送：
+1. 在 Codex 输入框中输入 `/skill`（部分版本为 `/skills`），调出技能列表。
+2. 搜索并选择 `research-paper-slides`（显示名称：科研论文汇报 · 顶会风格）。
+3. 上传论文 PDF，再发送具体需求，例如：
 
 ```text
-请使用 $research-paper-slides，为这篇论文制作 12 页英文汇报 PPT。
+请为这篇论文制作 12 页英文汇报 PPT。
 重点讲清问题、方法、关键实验和局限。
 请先给我逐页结构和文案，确认后再制作。
 ```
