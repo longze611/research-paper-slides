@@ -7,6 +7,10 @@ description: "面向老师、评委与研究者制作科研论文讲解、文献
 
 以论文论证为骨架，以真实图表为证据。执行“确定页数与文案语言 → 阅读论文与逐页文案 → 用户确认 → 直接制作可编辑 PPT → 渲染检查与修复”。不经过 Image 2 / ImageGen 整页图片生成阶段。用户只要提纲或文案时，完成对应部分即可。此技能独立于 `academic-blue-defense`，不沿用其项目报告版式。
 
+## 全局安装（仅处理安装请求时）
+
+用户要求从仓库链接或 ZIP 安装本技能时，按 [README 的安装说明](README.md#安装方式) 实际安装到当前用户全局技能目录，默认 `~/.agents/skills/research-paper-slides/`；旧版客户端使用其已确认支持的 `$CODEX_HOME/skills` 或 `~/.codex/skills`。技能文件夹名保持 `research-paper-slides`，其下直接包含 `SKILL.md` 及完整资源，不只克隆到项目目录，也不多嵌套仓库层。安装后报告绝对路径、文件检查结果及 `/skills` 刷新方式；未实际查看客户端列表时不宣称已验证可见。制作 PPT 时跳过本节，不自动安装或迁移技能。
+
 ## 先读什么
 
 - 首次应用：读 [论文汇报思路](references/paper-story.md) 和 [视觉系统](references/visual-system.md)。原型依据、三份报告的完整页序见 [参考研究](references/source-study.md)。

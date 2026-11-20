@@ -6,12 +6,19 @@
 
 ## 安装方式
 
+以下两种方式均安装为**当前用户全局技能**，可在不同项目中使用。请复制完整指令，不要只发送仓库链接。
+
 ### 方式一：下载 ZIP，让 Codex 安装
 
 [下载本仓库 ZIP](https://github.com/longze611/research-paper-slides/archive/refs/heads/main.zip)，将文件提供给 Codex，并发送：
 
 ```text
-请将这个 ZIP 中的 research-paper-slides 技能安装到我的 Codex 技能目录。
+请将这个 ZIP 中的 research-paper-slides 安装为当前用户的全局 Codex 技能。
+默认安装到 ~/.agents/skills/research-paper-slides/；若当前客户端明确使用旧版技能目录，
+则使用 $CODEX_HOME/skills/research-paper-slides/（CODEX_HOME 未设置时为 ~/.codex/skills/research-paper-slides/）。
+请实际完成安装，保留 SKILL.md、agents、references、assets、scripts 等完整资源，
+确保 SKILL.md 直接位于技能目录下，不要只解压到当前项目或多嵌套一层仓库目录。
+安装后检查技能名称和资源路径，并告知最终绝对路径及刷新方法；已有同名技能时先比较，保留本地修改。
 ```
 
 ### 方式二：复制 Git 链接，让 Codex 安装
@@ -19,11 +26,18 @@
 将下面的内容发送给 Codex：
 
 ```text
-请从这个 Git 仓库安装 research-paper-slides 技能：
-https://github.com/longze611/research-paper-slides.git
+请从 https://github.com/longze611/research-paper-slides.git
+将仓库根目录中的 research-paper-slides 安装为当前用户的全局 Codex 技能。
+默认安装到 ~/.agents/skills/research-paper-slides/；若当前客户端明确使用旧版技能目录，
+则使用 $CODEX_HOME/skills/research-paper-slides/（CODEX_HOME 未设置时为 ~/.codex/skills/research-paper-slides/）。
+请实际完成安装，保留完整技能资源，并确保 SKILL.md 直接位于技能目录下。
+不要只克隆到当前项目；安装后检查技能名称和资源路径，告知最终绝对路径及刷新方法。
+已有同名技能时先比较，保留本地修改。
 ```
 
-安装后重新打开 Codex 会话，或按当前客户端方式刷新技能列表。
+安装后在新会话中用 `/skills` 或输入 `$research-paper-slides` 查找；未出现时重启 Codex。建议切换到另一项目再确认，以检查全局可用性。
+
+用户级目录依据 [OpenAI 官方技能文档](https://developers.openai.com/codex/skills/)。
 
 ## 使用方式
 
